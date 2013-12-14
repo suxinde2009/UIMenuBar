@@ -31,7 +31,7 @@
 #import "UIMenuBarItem.h"
 
 @class UIMenuBar;
-UIAlertView
+
 @protocol UIMenuBarDelegate <NSObject>
 @optional
 - (void)menuBar:(UIMenuBar *)menuBar didSelectAtIndex:(int)index;

@@ -36,9 +36,9 @@
 
 
 #Screenshot
-![image1](http://code4app.qiniudn.com/photo/513c649d6803fa3278000002_1.png)
+![image1](https://raw.github.com/suxinde2009/UIMenuBar/master/snapshot01.jpg)
 
-![image2](http://code4app.qiniudn.com/photo/513c649d6803fa3278000002_11.png)
+![image2](https://raw.github.com/suxinde2009/UIMenuBar/master/snapshot02.jpg)
 
 #License
 

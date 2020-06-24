@@ -1,10 +1,10 @@
-#Description
+# Description
 
 *** This repo is `Deprecated` ***
  
 iOS menu bar , a UIActionSheet replacement. It can contain more than 6 buttons, when the button quantities greater than 6, it will separate them into pages, you can scroll the menu horizontally.  
 
-#Example
+# Example
  ```
     UIMenuBarItem *menuItem1 = [[UIMenuBarItem alloc] initWithTitle:@"MenuItem1" target:self image:[UIImage imageNamed:@"10_device_access_network_cell.png"] action:@selector(clickAction:)];
     UIMenuBarItem *menuItem2 = [[UIMenuBarItem alloc] initWithTitle:@"MenuItem2" target:self image:[UIImage imageNamed:@"5-content-new-attachment.png"] action:@selector(clickAction:)];
@@ -36,13 +36,13 @@ iOS menu bar , a UIActionSheet replacement. It can contain more than 6 buttons, 
     
 ```
 
-#Screenshot
+# Screenshot
 
 ![image1](https://raw.github.com/suxinde2009/UIMenuBar/master/snapshot01.jpg)
 
 ![image2](https://raw.github.com/suxinde2009/UIMenuBar/master/snapshot02.jpg)
 
-#License
+# License
 
 The MIT License (MIT)
 
